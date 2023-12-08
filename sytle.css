@@ -105,6 +105,6 @@
     /* Add customization here  */
   }
 
-table  th{
+.reportTable  th{
 background: #70db70;
 }
